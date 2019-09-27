@@ -1,0 +1,2 @@
+# GeneratorHosting
+just a host
